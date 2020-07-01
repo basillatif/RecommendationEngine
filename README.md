@@ -1,2 +1,0 @@
-# RecommendationEngine
-Shopify App 
